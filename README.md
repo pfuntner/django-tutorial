@@ -14,7 +14,7 @@ I learned a lot while just carrying out our project but also through a tutorial 
 ## Revisiting Django
 I left that role after about 9 months and use Python every day but didn't have a need to use Django so I didn't keep up with it.  I'm pretty sure back in 2018 I was probably still in the Python 2 camp and had some strong opinions about the Python 3 changes.  Since then I'm a Python 3 convert and have left Python 2 in the dust.
 
-I'm really interested in playing with Django more and plan on using a new tutorial.  [A tutorial on the Django site](https://docs.djangoproject.com/en/4.2/intro/tutorial01/) is a candidate but I figure there are others as well.
+I'm really interested in playing with Django more and plan on using a new tutorial.  [A tutorial on the Django site](https://docs.djangoproject.com/en/4.2/intro/tutorial01/) is a candidate but I figure there are others as well, especially in the time since 2018.
 
 I've already installed a pretty recent version of Django:
 ```
