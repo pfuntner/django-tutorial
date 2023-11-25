@@ -1,4 +1,8 @@
 # django-tutorial
+
+## TLDR
+[Check out the steps I'm running from the new tutorial](mysite/README.md).
+
 ## Messing around with a Django tutorial in 2023
 
 I first got exposed to Django in 2018 at work when I had a role that made heavy use of it.  I was on a team with two other engineers and some things I loved about Django included:
