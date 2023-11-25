@@ -1,12 +1,12 @@
 # django-tutorial
 ## Messing around with a Django tutorial in 2023
 
-I first got exposed to Django in 2018 at work when I had a role that made heavy use of it.  I was on a team with two other engineers and I the things I loved about Django included:
-- Database abstraction
+I first got exposed to Django in 2018 at work when I had a role that made heavy use of it.  I was on a team with two other engineers and some things I loved about Django included:
+- Database abstraction - I really had a lot of appreciation for this since I've used databases a lot over the years
     - Schema definitions of tables
     - Object-oriented [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) operations
     - Agnostic layer owning new allegiance to database providers - theoretically, you can swap out Postgres for MySQL or whatever
-- Automatic database migration scripts - great in a collaborative incremental development environment!
+    - Automatic database migration scripts - great in a collaborative incremental development environment!
 - Easy creation of REST APIs
 
 I learned a lot while just carrying out our project but also through a tutorial - the use of the tutorial is the subject of [my djangogirls-tutorial repo](https://github.com/pfuntner/djangogirls-tutorial-2018) (which I've since archived).
