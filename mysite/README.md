@@ -1,6 +1,7 @@
-This is the tutorial's project, originally created by `django-admin startproject mysite`.
+You're in the directory for the tutorial's project, originally created by `django-admin startproject mysite`.
 
-I'll keep track of the steps here:
+### Steps
+I'll keep track of the steps from the tutorial as I carry them out:
 
 | Step # | Step | Status | Comments |
 | ---: | --- | :---: | --- |
